@@ -1,14 +1,20 @@
 # Felipe Lobo
 
-I'm a vibe coder. I describe what I want in plain Portuguese, argue with the agent until it's right, and ship it. I have never enjoyed work this much.
+I'm a vibe coder. I describe what I want in plain Portuguese, argue with the agent until it's right, and ship it. It took me ten businesses and twelve YouTube channels to find this.
 
-My degrees are in **advertising** and **physical education**. My MBAs are in **AI** and **management**. Not one of them is computer science. Before all this I built **12 monetized music channels on YouTube** — you've possibly heard something of mine without ever knowing it was mine.
+## The long way here
 
-None of that was a detour:
+A children's school I ran with my family. A restaurant. Imported goods. Multi-level marketing. Paid traffic. A Google Trusted agency. A multi-sport facility. A pizzeria. Fitness apparel. A CrossFit box. And twelve monetized music channels on YouTube — you've possibly heard something of mine without ever knowing it was mine.
+
+My degrees are in **advertising** and **physical education**. My MBAs are in **AI** and **management**. Not one of them is computer science.
+
+Then I dropped all of it to work in AI, and found programming on the way. That one stuck. I have never enjoyed work this much.
+
+## Why none of it was wasted
 
 - Advertising taught me to write for a reader instead of for myself. That's most of what a prompt is.
 - Physical education taught me you get good by showing up and adding load, not by being gifted. That's most of what practice is.
-- Twelve channels taught me to ship, measure, and let the numbers win the argument.
+- Ten businesses taught me to ship, to measure, and to tell a dead idea from a merely slow one.
 - The MBAs taught me to keep asking what a thing is *for*, and who pays when it's wrong.
 
 The agent handles the syntax. I handle everything else.
