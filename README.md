@@ -1,27 +1,42 @@
 # Felipe Lobo
 
-AI/LLM Engineer. I build multi-agent systems with adversarial evaluation, and I write about the engineering work in public.
+I'm a vibe coder. I describe what I want in plain Portuguese, argue with the agent until it's right, and ship it. I have never enjoyed work this much.
 
-**What I'm working on**
+My degrees are in **advertising** and **physical education**. My MBAs are in **AI** and **management**. Not one of them is computer science. Before all this I built **12 monetized music channels on YouTube** — you've possibly heard something of mine without ever knowing it was mine.
 
-- [**Book Genesis**](https://github.com/felipelobomotta-blip/book-genesis-v4) — open-source multi-agent pipeline for long-form content production. 10+ books shipped through it in under 30 days. MIT, agent-agnostic. The interesting engineering is the evaluation layer (Genesis Score + MiroFish multi-persona reader simulation).
+None of that was a detour:
 
-**What I think about a lot**
+- Advertising taught me to write for a reader instead of for myself. That's most of what a prompt is.
+- Physical education taught me you get good by showing up and adding load, not by being gifted. That's most of what practice is.
+- Twelve channels taught me to ship, measure, and let the numbers win the argument.
+- The MBAs taught me to keep asking what a thing is *for*, and who pays when it's wrong.
 
-- Evaluation infrastructure for LLM applications. Generation is easy; knowing whether the output is good is the actual problem.
-- Multi-agent orchestration with file-backed state. Durable > clever.
-- Adversarial audit as a hard gate before scoring. Optimizing against a metric without an adversarial check is how you get score inflation.
+The agent handles the syntax. I handle everything else.
 
-**Stack**
+## Where this is going
 
-Python, Bash. Multi-agent orchestration across Claude Code, Codex, Antigravity, Kimi, and any file-based agent runtime. Prompt engineering at scale, eval harness design, persona-based simulation, structured generation, durable file-backed state for agentic workflows.
+I want to build a technology startup — not as a line on a résumé, but because I want to make something that genuinely changes how people do a thing. Everything in this profile is practice for that, done in public, where you get to watch it go wrong first.
 
-**Open to**
+## Things I've built
 
-AI/LLM engineering roles — **remote or relocation** — at companies that ship real LLM-backed systems and take evaluation seriously. Based in Brazil 🇧🇷, fluent in English and Portuguese. Available full-time.
+**[book-genesis-studio](https://github.com/felipelobomotta-blip/book-genesis-studio)** — open-source writing skills for Claude Code, Codex, OpenCode, Antigravity, Gemini, OpenClaw and Hermes. Your creativity. Your agent. Your book.
 
-**Where to find me**
+**[codex-engineering-harness](https://github.com/felipelobomotta-blip/codex-engineering-harness)** — turns ad-hoc AI coding into an evidence-based delivery loop. Specs, gates, and proof before "done".
 
-- LinkedIn: [felipeloboai](https://www.linkedin.com/in/felipeloboai/)
-- X: [@FelipeL72767971](https://x.com/FelipeL72767971)
-- Email: blacksheeptec@gmail.com
+**[claude-paid-traffic-toolkit](https://github.com/felipelobomotta-blip/claude-paid-traffic-toolkit)** — a complete paid-traffic team as Claude Code skills: 1 router, 5 specialists, 8 agents. This one is advertising-me handing work to programmer-me.
+
+**[clawtopia](https://github.com/felipelobomotta-blip/clawtopia)** — a persistent Minecraft society where autonomous agents live, cooperate and evolve. Yes, really.
+
+## What I've learned the hard way
+
+- Show the raw output — the diff, the error, the log — *before* the conclusion.
+- Green tests don't see layout. Open the app and look at it.
+- Nothing is "flaky" until you've run it alone and watched it fail again.
+- When the same test fails a third time for the same reason, the test is the problem.
+- Every lesson becomes a file, so I never have to learn it twice.
+
+I build in public because I learned all of this from people who did.
+
+---
+
+🇧🇷 Brazil · [LinkedIn](https://www.linkedin.com/in/felipeloboai) · [X](https://x.com/FelipeL72767971)
