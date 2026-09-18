@@ -45,4 +45,6 @@ I build in public because I learned all of this from people who did.
 
 ---
 
-🇧🇷 Brazil · [LinkedIn](https://www.linkedin.com/in/felipeloboai) · [X](https://x.com/FelipeL72767971)
+If you're hiring someone to build agent systems, I'm available — **[felipelobomotta@gmail.com](mailto:felipelobomotta@gmail.com)**.
+
+🇧🇷 Niterói, Brazil · [LinkedIn](https://www.linkedin.com/in/felipeloboai) · [X](https://x.com/FelipeL72767971)
