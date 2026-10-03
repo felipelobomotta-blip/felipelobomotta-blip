@@ -4,9 +4,9 @@ I'm a vibe coder. I describe what I want in plain Portuguese, argue with the age
 
 ## The long way here
 
-A children's school I ran with my family. A restaurant. Imported goods. Multi-level marketing. Paid traffic. A Google Trusted agency. A multi-sport facility. A pizzeria. Fitness apparel. A CrossFit box. And twelve monetized music channels on YouTube — you've possibly heard something of mine without ever knowing it was mine.
+A children's school I ran with my family. A restaurant. Imported goods. Paid traffic. A Google Street View partner agency. A multi-sport facility. A pizzeria. Fitness apparel. A CrossFit box. And twelve music channels on YouTube, with monetization active on several — you've possibly heard something of mine without ever knowing it was mine.
 
-My degrees are in **advertising** and **physical education**. My MBAs are in **AI** and **management**. Not one of them is computer science.
+My degree is in **advertising**, and I'm finishing one in **physical education**. My postgraduate specializations are in **AI** and **management**. Not one of them is computer science.
 
 Then I dropped all of it to work in AI, and found programming on the way. That one stuck. I have never enjoyed work this much.
 
@@ -15,7 +15,7 @@ Then I dropped all of it to work in AI, and found programming on the way. That o
 - Advertising taught me to write for a reader instead of for myself. That's most of what a prompt is.
 - Physical education taught me you get good by showing up and adding load, not by being gifted. That's most of what practice is.
 - Ten businesses taught me to ship, to measure, and to tell a dead idea from a merely slow one.
-- The MBAs taught me to keep asking what a thing is *for*, and who pays when it's wrong.
+- The postgraduate courses taught me to keep asking what a thing is *for*, and who pays when it's wrong.
 
 The agent handles the syntax. I handle everything else.
 
